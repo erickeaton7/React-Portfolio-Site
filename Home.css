@@ -1,0 +1,101 @@
+h1 {
+  margin: 0;
+  padding: 100px;
+  text-align: center;
+  font-size: 5em;
+  font-family: arial;
+  font-weight: 400;
+  font-style: italic;
+  color: #333;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #333;
+}
+
+.parallax {
+  background-image: url(Images/red_dice.jpeg);
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.topnav {
+  background-color: transparent;
+  overflow: hidden;
+  top: 0;
+  position: fixed;
+  width: 100%;
+  box-shadow: 0;
+  transition: all 0.4s;
+  margin: 0 auto;
+}
+
+.topnav:hover {
+  background-color: white;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
+}
+
+.topnav a {
+  float: left;
+  display: inline-block;
+  width: 25%;
+  text-decoration: none;
+  color: #333;
+  font-family: arial;
+  padding: 15px 0;
+}
+
+.topnav a.active {
+  background-color: #0389ff;
+  color: white;
+}
+
+.topnav_projects:hover ~ hr {
+  margin-left: 25%;
+}
+
+.topnav_info:hover ~ hr {
+  margin-left: 50%;
+}
+
+.topnav_contact:hover ~ hr {
+  margin-left: 75%;
+}
+
+hr {
+  height: .25rem;
+  width: 25%;
+  margin: 0;
+  background: #0389ff;
+  border: none;
+  transition: .4s ease-in-out;
+}
+
+ul {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+ul li {
+  display: inline;
+  text-align: center;
+}
+
+.description {
+  font-size: 40px;
+  text-align: center;
+  font-family: arial;
+}
