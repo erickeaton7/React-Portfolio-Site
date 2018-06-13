@@ -1,11 +1,3 @@
-h1 {
-  margin: 0;
-  padding: 200px;
-  text-align: center;
-  font-family: arial;
-  font-style: italic;
-}
-
 html {
   margin: 0;
   padding: 0;
@@ -83,7 +75,8 @@ ul li {
 }
 
 .description {
-  font-size: 40px;
+  font-size: 20px;
   text-align: center;
   font-family: arial;
+  font-weight: lighter;
 }
