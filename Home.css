@@ -22,15 +22,6 @@ body {
   background-color: white;
 }
 
-.parallax {
-  background-image: url(Images/red_dice.jpeg);
-  height: 100%;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
 .topnav {
   background-color: transparent;
   overflow: hidden;
