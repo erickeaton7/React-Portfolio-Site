@@ -1,15 +1,13 @@
-body {
-  background-color: blue;
-}
-
 .headline {
   margin: auto;
 }
 
 .sub {
-  margin: auto;
+  margin: 50px;
 }
 
 #evidence {
   margin: auto;
+  width: 400px;
+  height: auto;
 }
