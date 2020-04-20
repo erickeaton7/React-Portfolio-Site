@@ -1,8 +1,5 @@
 function change_color() {
-  if (document.body.style.background == 'black') {
-    document.body.style.background = 'white';
-  } else {
-    document.body.style.background = 'black';
-    document.body.style.transition = "all 1s"
-  }
+  var randomColor = '#'+Math.floor(Math.random()*16777215).toString(16);
+  document.body.style.background = randomColor;
+  document.body.style.transition = 'all 1s';
 }
