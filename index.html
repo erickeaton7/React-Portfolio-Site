@@ -2,16 +2,33 @@
 <html lang="en-US">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Homepage</title>
+  <meta name="viewport"
+  content="width=device-width, initial-scale=1.0">
+  <title>Dreaming Fresh</title>
   <link rel="stylesheet" href="home.css" type="text/css">
   <script src="home.js"></script>
 </head>
 <body>
-  <img class="deer_background"
-  src='Images/deer_background.svg'/>
-  <button onclick="change_color()"
-  type="button"
-  id="color_button">Random Background Color</button>
+  <div class="sidebar" id="tunes">
+    <iframe
+    src="https://open.spotify.com/embed/playlist/0Ablnkl0wmvcRJxaHz9xnH?si=XPQQo8OLRAy2B0tAIRB0Aw"
+    frameborder="0" allowtransparency="true"
+    allow="encrypted-media"></iframe>
+    <!-- <button onclick="change_color()"
+    type="button"
+    id="color_button">Random Background Color</button> -->
+  </div>
+  <div id="main">
+    <div id="sidebuttons">
+      <button class="openbtn"
+      id="tunesbtn"
+      onclick="opencloseTunes()">Tunes</button>
+      <button class="openbtn"
+      id="colorsbtn"
+      onclick="opencloseColors()">Colors</button>
+    </div>
+    <img id="deer_background"
+    src='Images/deer_background.svg'/>
+  </div>
 </body>
 </html>
