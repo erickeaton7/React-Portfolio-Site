@@ -70,6 +70,10 @@ body {
   top: 80px;
 }
 
+#logosbtn {
+  top: 140px;
+}
+
 #deer_background {
   display: block;
   margin: 0 auto;
