@@ -4,9 +4,16 @@ html {
 
 body {
   margin: 0;
-  background-color: #ffaa80;
+  /* background-color: #ffaa80; */
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* 
 .sidebar {
   height: 100%;
   width: 0;
@@ -39,8 +46,10 @@ body {
   transition: margin-left .5s;
 }
 
-#sidebuttons {}
+/* 
+#sidebuttons {} */
 
+/*
 .openbtn {
   position: absolute;
   left: -80px;
@@ -78,7 +87,7 @@ body {
   display: block;
   margin: 0 auto;
   width: 80%;
-}
+} */
 
 /* #color_button {
   display: block;
