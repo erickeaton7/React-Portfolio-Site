@@ -4,18 +4,18 @@ import './contact.css';
 // import {RiMessengerLine} from 'react-icons/ri'
 // import {BsWhatsapp} from 'react-icons/bs'
 import { useRef } from 'react';
-import emailjs from 'emailjs-com';
+// import emailjs from 'emailjs-com';
 
 const Contact = () => {
   const form = useRef();
 
-  const sendEmail = (e) => {
-    e.preventDefault();
+  // const sendEmail = (e) => {
+  //   e.preventDefault();
 
-    emailjs.sendForm('service_5lpa1ox', 'template_7saf51a', this); // form.current);  // , 'user_641J0AWGxx4qcKi835yDq')
+  //   emailjs.sendForm('service_5lpa1ox', 'template_7saf51a', this); // form.current);  // , 'user_641J0AWGxx4qcKi835yDq')
 
-    e.target.reset();
-  };
+  //   e.target.reset();
+  // };
 
   return (
     <section id='contact'>
