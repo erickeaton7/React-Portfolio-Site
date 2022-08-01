@@ -25,6 +25,11 @@ const Contact = () => {
       <h3>Thank you for checking out my portfolio site!</h3>
       <h3>You can reach me at <b className="email_address">ericksoneaton7@gmail.com</b></h3>
 
+      <div className='contact__socials'>
+        <a href="https://www.linkedin.com/in/erickeaton7/" target="_blank"><BsLinkedin/></a>
+        <a href="https://github.com/erickeaton7" target="_blank"><FaGithub/></a>
+      </div>
+
       {/* <div className="container contact__container">
         <div className="contact__options">
           {/* <article className="contact__option">
