@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/erickeaton7.github.io/static/css/main.d2fa8d95.css",
-    "main.js": "/erickeaton7.github.io/static/js/main.4e33791b.js",
+    "main.css": "/erickeaton7.github.io/static/css/main.cfabbaa6.css",
+    "main.js": "/erickeaton7.github.io/static/js/main.922cfe35.js",
     "static/media/me.png": "/erickeaton7.github.io/static/media/me.1e61b88009fcd25fb5c5.png",
     "static/media/me-about.jpg": "/erickeaton7.github.io/static/media/me-about.d94b781dac234d663219.jpg",
     "static/media/portfolio2.PNG": "/erickeaton7.github.io/static/media/portfolio2.a03c30fd1a4712fa75f3.PNG",
@@ -9,11 +9,11 @@
     "static/media/portfolio1.png": "/erickeaton7.github.io/static/media/portfolio1.ea3bda058f0a4d00a645.png",
     "static/media/portfolio3.PNG": "/erickeaton7.github.io/static/media/portfolio3.2277889e9ca053ebcd03.PNG",
     "index.html": "/erickeaton7.github.io/index.html",
-    "main.d2fa8d95.css.map": "/erickeaton7.github.io/static/css/main.d2fa8d95.css.map",
-    "main.4e33791b.js.map": "/erickeaton7.github.io/static/js/main.4e33791b.js.map"
+    "main.cfabbaa6.css.map": "/erickeaton7.github.io/static/css/main.cfabbaa6.css.map",
+    "main.922cfe35.js.map": "/erickeaton7.github.io/static/js/main.922cfe35.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2fa8d95.css",
-    "static/js/main.4e33791b.js"
+    "static/css/main.cfabbaa6.css",
+    "static/js/main.922cfe35.js"
   ]
 }
