@@ -1,19 +1,19 @@
 {
-  "files": {
-    "main.css": "/erickeaton7.github.io/static/css/main.cfabbaa6.css",
-    "main.js": "/erickeaton7.github.io/static/js/main.922cfe35.js",
-    "static/media/me.png": "/erickeaton7.github.io/static/media/me.1e61b88009fcd25fb5c5.png",
-    "static/media/me-about.jpg": "/erickeaton7.github.io/static/media/me-about.d94b781dac234d663219.jpg",
-    "static/media/portfolio2.PNG": "/erickeaton7.github.io/static/media/portfolio2.a03c30fd1a4712fa75f3.PNG",
-    "static/media/resume.pdf": "/erickeaton7.github.io/static/media/resume.5e12d94ce2a83f24dfff.pdf",
-    "static/media/portfolio1.png": "/erickeaton7.github.io/static/media/portfolio1.ea3bda058f0a4d00a645.png",
-    "static/media/portfolio3.PNG": "/erickeaton7.github.io/static/media/portfolio3.2277889e9ca053ebcd03.PNG",
-    "index.html": "/erickeaton7.github.io/index.html",
-    "main.cfabbaa6.css.map": "/erickeaton7.github.io/static/css/main.cfabbaa6.css.map",
-    "main.922cfe35.js.map": "/erickeaton7.github.io/static/js/main.922cfe35.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.cfabbaa6.css",
-    "static/js/main.922cfe35.js"
-  ]
+  "main.css": "/erickeaton7.github.io/static/css/main.1a3fc0bf.chunk.css",
+  "main.js": "/erickeaton7.github.io/static/js/main.f2f17bdf.chunk.js",
+  "main.js.map": "/erickeaton7.github.io/static/js/main.f2f17bdf.chunk.js.map",
+  "runtime~main.js": "/erickeaton7.github.io/static/js/runtime~main.8e3612d3.js",
+  "runtime~main.js.map": "/erickeaton7.github.io/static/js/runtime~main.8e3612d3.js.map",
+  "static/js/2.385fb64b.chunk.js": "/erickeaton7.github.io/static/js/2.385fb64b.chunk.js",
+  "static/js/2.385fb64b.chunk.js.map": "/erickeaton7.github.io/static/js/2.385fb64b.chunk.js.map",
+  "index.html": "/erickeaton7.github.io/index.html",
+  "precache-manifest.51b767cd277b65fd82f3d11d5dd618e5.js": "/erickeaton7.github.io/precache-manifest.51b767cd277b65fd82f3d11d5dd618e5.js",
+  "service-worker.js": "/erickeaton7.github.io/service-worker.js",
+  "static/css/main.1a3fc0bf.chunk.css.map": "/erickeaton7.github.io/static/css/main.1a3fc0bf.chunk.css.map",
+  "static/media/me-about.jpg": "/erickeaton7.github.io/static/media/me-about.5aaadb73.jpg",
+  "static/media/me.png": "/erickeaton7.github.io/static/media/me.0d6650bf.png",
+  "static/media/portfolio1.png": "/erickeaton7.github.io/static/media/portfolio1.347e5914.png",
+  "static/media/portfolio2.PNG": "/erickeaton7.github.io/static/media/portfolio2.c4f6bf83.PNG",
+  "static/media/portfolio3.PNG": "/erickeaton7.github.io/static/media/portfolio3.e92448cf.PNG",
+  "static/media/resume.pdf": "/erickeaton7.github.io/static/media/resume.da5c7417.pdf"
 }
